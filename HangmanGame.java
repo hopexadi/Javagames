@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class HangmanGame {
-    private static final String[] WORDS = { "apple", "banana", "orange", "watermelon", "strawberry" };
+    private static final String[] WORDS = { "apple", "banana", "orange", "watermelon", "strawberry" ,"papaya"};
     private static final int MAX_TRIES = 6;
 
     private String word;
